@@ -2,8 +2,8 @@
 Laravel provides developers with the option of handling User authentication in their apps [manually](https://laravel.com/docs/5.3/authentication#authenticating-users). This bash script speeds up the process of bootstrapping the views and controller needed for manual User authentication in Laravel.
 
 ## Dependencies
-[Laravel Collectives](https://laravelcollective.com/docs/5.3/html) for handling form operations
-[Laravel](https://laravel.com/) version > 5.0
+* [Laravel Collectives](https://laravelcollective.com/docs/5.3/html) for handling form operations
+* [Laravel](https://laravel.com/) version > 5.0
 
 ## How to use
 Copy and paste the script at the root of your Laravel app and run it like so: **./auth.sh**
