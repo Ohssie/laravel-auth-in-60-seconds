@@ -17,3 +17,6 @@ Copy and paste the script at the root of your Laravel app and run it like so: **
 The **AuthenticationController** contains method implementations for returning the login and register views, as well as implementations for logging in and registering new users.
 
 The controller implementation is based on the default migration Laravel provides. If the requirements for your app differs, you can make changes to the migration files and also the controller. This script simply aims to speed up the process of manual auth implementation in Laravel
+
+## Credits
+Authentication UI by [Marco Biedermann](http://codepen.io/marcobiedermann/) on [CodePen](http://codepen.io/)
